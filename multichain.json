@@ -13,6 +13,14 @@
 			"logoURI": "https://raw.githubusercontent.com/kish-dex/icons/main/token/avax.jpg"
 		},
 		{
+			"chainId": 56,
+			"address": "0x9075055C3Ee590Ee0d7a2e1EF4376A851369E8E0",
+			"decimals": 9,
+			"name": "Fq Swap",
+			"symbol": "FQS",
+			"logoURI": "https://raw.githubusercontent.com/kish-dex/icons/main/token/fqswap.jpg"
+		},
+		{
 			"chainId": 43114,
 			"address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
 			"decimals": 18,
