@@ -437,14 +437,6 @@
 			"logoURI": "https://bscscan.com/token/images/Prometeus_32.png"
 		},
 		{
-			"name": "CanYaCoin",
-			"symbol": "CAN",
-			"address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
-			"chainId": 56,
-			"decimals": 18,
-			"logoURI": "https://bscscan.com/token/images/canya_32.png"
-		},
-		{
 			"name": "Polkadot Token",
 			"symbol": "DOT",
 			"address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
